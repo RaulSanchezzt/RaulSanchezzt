@@ -1,4 +1,4 @@
-![Initial GIF](Header-v2.gif)
+![Initial GIF](https://github.com/RaulSanchezzt/RaulSanchezzt/blob/master/gif/Header-v2.gif?raw=true)
 # 👨🏼‍💻 About me
 
 - 🔭 I’m currently working on [kali-bspwm](https://github.com/RaulSanchezzt/kali-bspmw)
@@ -41,8 +41,8 @@
 <summary>Show More</summary>
 <h1> 📊 My Github Stats</h1>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulSanchezzt&theme=graywhite"></img> &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulSanchezzt&count_private=true&show_icons=true&theme=graywhite"></img>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulSanchezzt&theme=graywhite"></img> &nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaulSanchezzt&count_private=true&show_icons=true&theme=graywhite"></img>
 
 <p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSanchezzt&layout=compact&show_icons=true&theme=graywhite"></img></p>
 
