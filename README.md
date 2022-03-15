@@ -19,12 +19,12 @@
 
 <!-- - ⚡ Fun fact **FUNNY** -->
 
-- 📫 Contact with me... [LinkedIn](https://www.linkedin.com/in/raul-sanchez-tarazona)
+- 📫 Contact with me... [LinkedIn](https://www.linkedin.com/in/raulsanchezzt)
 # 💻 Languages and Tools
 [![LINUX](https://img.icons8.com/color/96/000000/linux--v1.png)](https://www.linux.org/)
-![BASH](https://img.icons8.com/plasticine/96/000000/bash.png)
-![HTML5](https://img.icons8.com/color/96/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/96/000000/css3.png)
+[![BASH](https://img.icons8.com/plasticine/96/000000/bash.png)](https://www.gnu.org/software/bash/manual/bash.pdf)
+[![HTML5](https://img.icons8.com/color/96/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
+[![CSS3](https://img.icons8.com/color/96/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JS](https://img.icons8.com/color/96/000000/javascript.png)](https://www.javascript.com/)
 [![NODE](https://api.iconify.design/logos/nodejs.svg?color=%23ff4088&width=96&height=96)](https://nodejs.org/)
 [![TYPESCRIPT](https://img.icons8.com/color/96/000000/typescript.png)](https://www.typescriptlang.org/)
