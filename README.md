@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [PORTOFOLIO LINK](PORTOFOLIO LINK) -->
 
-<!-- - 📝 I regularly write articles on [BLOG LINK](BLOG LINK) -->
+- 📝 I regularly write articles about the new things I learn on my [Blog](https://raulsanchezzt.github.io/)
 
 - 💬 Ask me about **Networking and Operating Systems**
 
