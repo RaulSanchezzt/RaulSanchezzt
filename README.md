@@ -2,12 +2,8 @@
 
 - 🎓️ I am studying professional training in network systems administration.
 
-- 📚️ I’m currently learning **Web Development** and **Cybersecurity**.
-
-- 📝 I regularly write articles about cibersecurity on my [Blog](https://blog.raulsanchezzt.com).
-
 - 📫 Contact with me... [LinkedIn](https://www.linkedin.com/in/raulsanchezzt)
-.
+
 # 💻 Languages and Tools
 
 <div style="text-align: center;">
