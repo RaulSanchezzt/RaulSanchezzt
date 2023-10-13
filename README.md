@@ -1,6 +1,6 @@
 # 👨🏼‍💻 About me
 
-- 🎓️ I am studying professional training in network systems administration.
+- 🎓️ I am studying a Master's degree in Artificial Intelligence and Big Data
 
 - 📫 Contact with me... [LinkedIn](https://www.linkedin.com/in/raulsanchezzt)
 
@@ -11,8 +11,9 @@
 <img src="https://img.icons8.com/color/71/undefined/linux--v1.png">
 <img src="https://img.icons8.com/plasticine/71/undefined/bash.png">
 <img src="https://img.icons8.com/color/71/000000/javascript.png">
-<img src="https://api.iconify.design/simple-icons/hugo.svg?color=%23ff4088&width=71&height=71">
+<img src="https://img.icons8.com/ios-filled/71/solidity.png">
 <img src="https://img.icons8.com/color/71/000000/python.png">
+<img src="https://img.icons8.com/fluency/71/r-project.png">
 <img src="https://img.icons8.com/color/71/000000/git.png">
 <img src="https://img.icons8.com/color/71/000000/docker.png">
 <img src="https://img.icons8.com/fluent/71/000000/mysql-logo.png">
